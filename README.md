@@ -180,21 +180,11 @@ We welcome contributions! Please feel free to submit issues, feature requests, o
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Authors
-
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
-
 ## 🙏 Acknowledgments
 
 - IBM Watson Analytics for providing the dataset
 - Open source community for machine learning libraries
 - Contributors and reviewers of this project
-
-## 📞 Contact
-
-- **Project Link**: [https://github.com/yourusername/telco-churn-prediction](https://github.com/yourusername/telco-churn-prediction)
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
 
 ---
 
